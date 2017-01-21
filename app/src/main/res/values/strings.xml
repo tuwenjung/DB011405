@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DB011405</string>
+    <string-array name="fruits">
+        <item>蘋果</item>
+        <item>香蕉</item>
+        <item>柳丁</item>
+    </string-array>
+</resources>
